@@ -1,1 +1,1 @@
-https://github.com/Yazdum/ono-tebe-nado
+https://github.com/Yazdum/ono-tebe-nado-fd
