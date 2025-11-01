@@ -114,7 +114,7 @@
   color: #fff;
   font-weight: 400;
   font-size: 22px;
-  line-height: 127%;
+  line-height: 1.27;
   letter-spacing: normal;
   text-transform: uppercase;
   word-spacing: 0.85em;
@@ -130,7 +130,7 @@
   color: #fff;
   font-weight: 700;
   font-size: 100px;
-  line-height: 115%;
+  line-height: 1.15;
   letter-spacing: 0.3em;
   text-transform: uppercase;
 }
@@ -223,7 +223,7 @@
   color: #fff;
   font-weight: bold;
   font-size: 22px;
-  line-height: 120%;
+  line-height: 1.2;
   text-decoration: underline;
   text-decoration-skip-ink: none;
   text-transform: uppercase;
@@ -235,7 +235,7 @@
   color: #fff;
   font-weight: 400;
   font-size: 20px;
-  line-height: 120%;
+  line-height: 1.2;
   text-decoration: none;
 }
 
@@ -281,7 +281,6 @@
   margin-bottom: 104px;
   font-weight: 700;
   font-size: 40px;
-  font-style: Bold;
   line-height: 1;
   letter-spacing: 0;
   text-transform: uppercase;
